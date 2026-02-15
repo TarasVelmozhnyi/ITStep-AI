@@ -28,14 +28,13 @@ frozenlist==1.5.0
 fsspec==2025.3.0
 gitdb==4.0.12
 GitPython==3.1.44
-google-generativeai
-google-ai-generativelanguage
-langchain-google-genai
+google-ai-generativelanguage==0.6.18
 google-api-core==2.24.2
 google-api-python-client==2.190.0
 google-auth==2.48.0
 google-auth-httplib2==0.3.0
 google-genai==1.63.0
+google-generativeai==0.8.6
 googleapis-common-protos==1.69.2
 greenlet==3.1.1
 grpcio==1.71.0
@@ -92,6 +91,7 @@ orjson==3.10.15
 ormsgpack==1.12.0
 packaging==24.2
 pandas==2.2.3
+pillow==11.1.0
 pinecone==6.0.2
 pinecone-notebooks==0.1.1
 pinecone-plugin-interface==0.0.7
